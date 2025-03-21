@@ -1,0 +1,21 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.1",
+    "scikit-learn>=1.6.1",
+    "speechrecognition>=3.14.1",
+    "streamlit-webrtc>=0.53.3",
+    "streamlit>=1.43.2",
+    "langchain-groq>=0.3.1",
+    "plotly>=6.0.1",
+    "numpy>=2.2.4",
+    "pandas>=2.2.3",
+    "gtts>=2.5.4",
+    "av>=13.1.0",
+    "sounddevice>=0.5.1",
+    "soundfile>=0.13.1",
+    "langchain>=0.3.21",
+]
